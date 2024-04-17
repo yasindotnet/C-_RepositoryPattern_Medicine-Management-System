@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Medicines\Medicines\bin\Debug\Medicines.exe.config
+C:\Users\User\Desktop\Medicines\Medicines\bin\Debug\Medicines.exe
+C:\Users\User\Desktop\Medicines\Medicines\bin\Debug\Medicines.pdb
+C:\Users\User\Desktop\Medicines\Medicines\obj\Debug\Medicines.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Medicines\Medicines\obj\Debug\Medicines.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Medicines\Medicines\obj\Debug\Medicines.exe
+C:\Users\User\Desktop\Medicines\Medicines\obj\Debug\Medicines.pdb
+D:\MVC\Medicines\Medicines\bin\Debug\Medicines.exe.config
+D:\MVC\Medicines\Medicines\bin\Debug\Medicines.exe
+D:\MVC\Medicines\Medicines\bin\Debug\Medicines.pdb
+D:\MVC\Medicines\Medicines\obj\Debug\Medicines.csproj.AssemblyReference.cache
+D:\MVC\Medicines\Medicines\obj\Debug\Medicines.csproj.CoreCompileInputs.cache
+D:\MVC\Medicines\Medicines\obj\Debug\Medicines.exe
+D:\MVC\Medicines\Medicines\obj\Debug\Medicines.pdb
